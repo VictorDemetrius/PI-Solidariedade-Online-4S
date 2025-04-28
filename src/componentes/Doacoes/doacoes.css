@@ -1,0 +1,18 @@
+.pedidos{
+    font-size: 48px;
+    color: white;
+    margin-left: 100px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.vermais{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.doacao{
+    background-color: #212121;
+}
