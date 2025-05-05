@@ -24,7 +24,7 @@ O projeto é uma plataforma digital com o objetivo de conectar doadores e volunt
 
 - [![HTML](https://img.shields.io/badge/HTML-Frontend-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-- [![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![JavaScript](https://img.shields.io/badge/JavaScript%20-%20Node%20-%20purple)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Pré-requisitos e como rodar a aplicação/testes
 
